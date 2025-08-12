@@ -19,6 +19,7 @@ Different Tasks that was given to me ->
 
 Different tasks are sorted in their respective folder. The '.ipynb' file is run on a kaggle environment, '.py' files are run locally.
 ".h5" files are the model while ".weights.h5" files are the model weights.
-The drive link for all the model and the model weights are provided below
+The drive link for all the model and the model weights are provided below->
+https://drive.google.com/drive/folders/1HSkb6GuRzXPbzhlx8oIIdrmbEEaCX0X2?usp=sharing
 
 Change the file path of the model when you are running ".py" files based on the path location where the models are saved in your system
