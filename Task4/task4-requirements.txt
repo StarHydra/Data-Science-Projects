@@ -1,0 +1,15 @@
+Packages required ->
+keras==3.8.0
+matplotlib==3.7.2
+numpy==1.26.4
+scikit-learn==1.2.2
+tensorflow==2.18.0
+tqdm==4.67.1
+pandas==2.2.3
+streamlit==1.45.1
+
+Dataset used -> UTKFace dataset (available on kaggle)
+["https://www.kaggle.com/datasets/jangedoo/utkface-new"]
+                Hairlength dataset and its corresponding label csv file is available along with models in a zip file titled "hairlength_dataset.zip".
+                The above dataset used is a subset of k_hairstyle_batch_3 dataset available on kaggle.
+[https://www.kaggle.com/datasets/edmondkirsch/k-hairstyle-batch-3]
