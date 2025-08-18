@@ -1,5 +1,5 @@
 # Data-Science-Projects
-Contains code for the tasks given to me by Null Class as assignments.
+Contains code for the tasks given to me by Null Class as assignments. All models have 70% training and validation accuracy(atleast).
 
 Different Tasks that was given to me ->
 
