@@ -16,10 +16,3 @@ Different Tasks that was given to me ->
 6. Age Detection for Horror Roller Coaster: Description: In this task, you will develop a machine learning model for real-time age detection on a horror roller coaster. The model should detect the age and gender of people. If the age is less than 13 or greater than 60, the model should display a message saying, “Not allowed” and mark them with a red rectangle. Additionally, the model should store all data, including age, gender, and entry time, in an Excel or CSV file. Guidelines: Create your own machine learning model for this task. While a graphical user interface (GUI) is not mandatory, you are welcome to include one if you wish. Although accuracy is important, we will evaluate your work based on the overall performance of your model and the successful functionality of your GUI.
 
 7. Sign Language Detection: Description: In this task, you will train a machine learning model to predict sign language and recognize some known words of your choice. The model should be operational during a specific time period, such as from 6 PM to 10 PM. Guidelines: You should have a proper GUI with features for both upload image and real time video.
-
-Different tasks are sorted in their respective folder. The '.ipynb' file is run on a kaggle environment, '.py' files are run locally.
-".h5" files are the model while ".weights.h5" files are the model weights.
-The drive link for all the model and the model weights are provided below->
-https://drive.google.com/drive/folders/1HSkb6GuRzXPbzhlx8oIIdrmbEEaCX0X2?usp=sharing
-
-Change the file path of the model when you are running ".py" files based on the path location where the models are saved in your system
